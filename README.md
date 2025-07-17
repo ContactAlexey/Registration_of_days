@@ -62,8 +62,22 @@
     <li>PDFs are saved in the same <code>employee_records</code> folder by default</li>
   </ul>
 
-  <h2>💬 License / Author</h2>
+  <h2>💬 License</h2>
+  <p><strong>Copyright (c) 2025 Alexey</strong></p>
+  <p>This software is provided for <strong>personal or internal use only</strong>.</p>
+
+  <h3>🔒 Restrictions</h3>
+  <ul>
+    <li>❌ You may <strong>not</strong> modify, copy, distribute, or sublicense this software without explicit written permission from the creator.</li>
+    <li>❌ You may <strong>not</strong> reverse-engineer or disassemble any part of the code.</li>
+    <li>⚠️ This software is provided "as is", with no warranties of any kind.</li>
+  </ul>
+
   <p>
-    This is a private utility for managing employee records. You can modify it freely for internal use. 🤝
+    📬 For modification rights or commercial use, please contact <strong>Alexey</strong>.
+  </p>
+
+  <p>
+    By using this software, you agree to the terms of this license.
   </p>
 </body>

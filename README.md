@@ -36,8 +36,8 @@
     <li><code>*.pdf</code>: exported date records per employee</li>
   </ul>
 
-  <h2>📸 Screenshots (not included)</h2>
-  <p>Add screenshots here to show how the UI looks!</p>
+  <h2>📸 Screenshots</h2>
+  <img src="https://github.com/ContactAlexey/Registration_of_days/blob/497a30519331c5d9323241192bde1cf1187211a6/view.png">
 
   <h2>💡 How to Use</h2>
   <ol>

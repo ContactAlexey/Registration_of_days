@@ -1,3 +1,20 @@
+'''
+Custom License Agreement
+
+Copyright (c) 2025 Alexey
+
+Permission is hereby granted to use this software and its source code for personal or internal use only.
+
+🔒 Restrictions:
+- You are NOT allowed to modify, copy, merge, publish, distribute, sublicense, or sell copies of this software, in whole or in part, without explicit written permission from the original creator.
+- You may NOT reverse-engineer, decompile, or disassemble any part of this software.
+- This software is provided "as is", without warranty of any kind.
+
+📬 For modification rights, please contact the creator for approval.
+
+By using this software, you agree to the terms of this license.
+'''
+
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 from tkcalendar import DateEntry
